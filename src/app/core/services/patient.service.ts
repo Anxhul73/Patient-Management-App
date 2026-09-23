@@ -2,8 +2,6 @@ import { Injectable, signal, computed } from '@angular/core';
 import { Observable, BehaviorSubject, of, delay } from 'rxjs';
 import {
   Patient,
-  PatientFilterCriteria,
-  PatientSortCriteria,
   PatientStatus
 } from '../models/patient.model';
 import { StorageService } from './storage.service';
