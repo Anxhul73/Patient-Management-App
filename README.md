@@ -1,4 +1,4 @@
-# MediCare360 — Modern Healthcare Patient Management SaaS Platform
+# MediCare360 — Modern Healthcare Patient Management SaaS Platfor
 
 ![MediCare360 Banner](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&auto=format&fit=crop&q=80)
 
