@@ -175,7 +175,7 @@ In a production healthcare deployment, frontend application code represents only
 
 Run the automated test suite with the Angular CLI:
 
-```bash
+```bash 
 npm test -- --watch=false
 ```
 
